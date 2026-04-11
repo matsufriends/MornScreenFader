@@ -1,1 +1,2 @@
-# MornScreenFader
+> [!IMPORTANT]
+> 廃止
